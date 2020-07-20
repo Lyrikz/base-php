@@ -2,5 +2,3 @@
 
 printenv
 
-exit 1
-
