@@ -2,5 +2,4 @@
 
 printenv
 
-
 exit 1
